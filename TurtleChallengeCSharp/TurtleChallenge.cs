@@ -16,6 +16,7 @@ namespace TurtleChallengeCSharp
 
         public static void Main()
         {
+
             /*
             * Assumption:
             * If the exit is reached, no more moves are executed
