@@ -30,7 +30,8 @@ namespace TurtleChallengeCSharp
 
     public class ExitPoint
     {
-        public Position Position { get; set; }
+        public Position Position { get; set; } 
+
     }
 
     public class Mine
