@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GameSettings>
+  <BoardSize>
+    <Width>5</Width>
+    <Height>4</Height>
+  </BoardSize>
+  <StartingPoint>
+    <Position>
+      <X>0</X>
+      <Y>1</Y>
+    </Position>
+    <Direction>North</Direction>
+  </StartingPoint>
+  <ExitPoint>
+    <Position>
+      <X>4</X>
+      <Y>2</Y>
+    </Position>
+  </ExitPoint>
+  <Mines>
+    <Mine>
+      <Position>
+        <X>1</X>
+        <Y>1</Y>
+      </Position>
+    </Mine>
+    <Mine>
+      <Position>
+        <X>3</X>
+        <Y>1</Y>
+      </Position>
+    </Mine>
+    <Mine>
+      <Position>
+        <X>3</X>
+        <Y>3</Y>
+      </Position>
+    </Mine>
+  </Mines>
+</GameSettings>
